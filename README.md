@@ -102,11 +102,7 @@ Created an interactive Excel Dashboard containing:
 
 ---
 
-## 📸 Dashboard Preview
 
-(Add screenshot of your dashboard here)
-
----
 
 ## 📁 Files Included
 
