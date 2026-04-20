@@ -23,7 +23,7 @@ The main objective of this project is to analyze pizza sales performance and hel
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src=""C:\Users\asus\OneDrive\Pictures\Screenshots\Screenshot 2026-04-20 155510.png"" width="1000">
+  <img src="Screenshot 2026-04-20 155510.png" width="1000">
 </p>
 
 ---
