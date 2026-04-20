@@ -6,9 +6,9 @@ This project focuses on analyzing pizza sales data using **SQL Server** and **Mi
 The project is divided into two major parts:
 
 1. **SQL Server Analysis**
-   - Importing raw pizza sales data into SQL Server.
-   - Running SQL queries based on business problem statements.
-   - Extracting KPIs and sales trends.
+   - Importing raw pizza sales data into SQL Server
+   - Running SQL queries based on business problem statements
+   - Extracting KPIs and sales trends
 
 2. **Excel Dashboard Development**
    - Data Cleaning
@@ -17,6 +17,14 @@ The project is divided into two major parts:
    - Interactive Dashboard Creation
 
 The main objective of this project is to analyze pizza sales performance and help in better decision-making using data-driven insights.
+
+---
+
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src=""C:\Users\asus\OneDrive\Pictures\Screenshots\Screenshot 2026-04-20 155510.png"" width="1000">
+</p>
 
 ---
 
@@ -34,10 +42,11 @@ The main objective of this project is to analyze pizza sales performance and hel
 ## 📂 Project Workflow
 
 ### 🔹 Step 1: Data Import in SQL Server
-- Imported pizza sales dataset into SQL Server database.
-- Created required tables for analysis.
+- Imported pizza sales dataset into SQL Server database
+- Created required tables for analysis
 
 ### 🔹 Step 2: SQL Queries for Business Analysis
+
 Performed multiple SQL queries to solve business problems such as:
 
 ### KPI Analysis:
@@ -60,7 +69,7 @@ Performed multiple SQL queries to solve business problems such as:
 - Top 5 Best Selling Pizzas
 - Bottom 5 Selling Pizzas
 
-SQL queries used in this project are available in the attached file. :contentReference[oaicite:0]{index=0}
+SQL queries used in this project are available in the attached file.
 
 ---
 
@@ -102,22 +111,21 @@ Created an interactive Excel Dashboard containing:
 
 ---
 
-
-
 ## 📁 Files Included
 
 - `Pizza Sales Dashboard.xlsx`
 - `PIZZA SALES SQL QUERIES.docx`
 - `README.md`
+- `dashboard.png`
 
 ---
 
 ## 🚀 How to Use
 
-1. Open SQL Server and run the provided SQL queries.
-2. Open Excel dashboard file.
-3. Use slicers/filters to interact with dashboard.
-4. Analyze business insights.
+1. Open SQL Server and run the provided SQL queries
+2. Open Excel dashboard file
+3. Use slicers/filters to interact with dashboard
+4. Analyze business insights
 
 ---
 
